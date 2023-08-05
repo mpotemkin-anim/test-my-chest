@@ -1,2 +1,2 @@
-saome text here
+some text here
 and it is terrible
