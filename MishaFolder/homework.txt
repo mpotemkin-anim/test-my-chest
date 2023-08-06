@@ -1,0 +1,19 @@
++new branch (git checkout -b nameNewBrach)
++all commands stated, all pushed
+
+git init - will initiaze local directory as a local depository
+git add . - will move all files to LOCAL repository
+git status - will display all files that are ready for COMMIT
+
+git commit -m "First/second/third commit" - add a message to commit and ask for an address to do it 
+git remote add origin +url - will create/add REMOTE repository
+git push -u origin master - will move all files to Remote repository
+
+git log - will display the history of changes on LOCAL repository
+git diff - will show the edits for the last modification! :0
+git checkout - will switch branches (or restore working tree files)
+
+git config -h - will give help info for this command, for config in this particular case
+git branch nameNewBrach - creates a new branch with name nameNewBrach
+git branch - will show all branches existing + will display where you are rn
+git switch 'nameNewBrach' - will switch to nameNewBrach
