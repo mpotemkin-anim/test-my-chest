@@ -17,3 +17,7 @@ git config -h - will give help info for this command, for config in this particu
 git branch nameNewBrach - creates a new branch with name nameNewBrach
 git branch - will show all branches existing + will display where you are rn
 git switch 'nameNewBrach' - will switch to nameNewBrach
+
+git checkout -b nameNewBrach - will create a COPY of actual branch and switch there rn
+git branch main - will transfer you to main 
+git pull - will pull all related changes from main
